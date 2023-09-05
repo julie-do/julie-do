@@ -12,7 +12,7 @@ _A web app to make class scheduling convenient for CSULB students._
 
 https://github.com/holxsam/holxsam/assets/41220650/dd3646c9-a7e3-4d7f-bfae-ef9ac0a18087
 
-## ASP.NET Core BFF Demo
+## ASP.NET Core BFF [[code]](https://github.com/julie-do/HomesBFF)
 
 _A minimal backend creating a database of homes and entry points for API calls._
 
